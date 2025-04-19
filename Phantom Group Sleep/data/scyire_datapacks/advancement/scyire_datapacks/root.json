@@ -13,14 +13,14 @@
         {
             "text": "Souls...:)",
             "color": "dark_purple",
-            "italics": true,
+            "italic": true,
             "obfuscated": true
         },
         "frame": "challenge",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false,
-        "background": "minecraft:textures/block/sculk.png"
+        "background": "minecraft:block/sculk_catalyst_top"
     },
     "criteria":
     {
