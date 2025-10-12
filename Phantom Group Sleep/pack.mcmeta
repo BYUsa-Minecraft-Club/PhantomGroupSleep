@@ -1,6 +1,8 @@
 {
     "pack": {
-        "pack_format": 81,
-        "description": "Makes it so that when one person sleeps, phantoms are turned off globally for 30 minutes"
+        "description": "Makes it so that when one person sleeps, phantoms are turned off globally for 30 minutes",
+        "min_format": 88,
+        "max_format": 88
     }
 }
+
