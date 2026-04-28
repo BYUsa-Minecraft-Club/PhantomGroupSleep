@@ -1,1 +1,1 @@
-gamerule doInsomnia true
+gamerule spawn_phantoms true
